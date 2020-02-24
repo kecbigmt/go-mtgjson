@@ -26,3 +26,10 @@ type Set struct {
   TCGPlayerGroupID string `json:"tcgplayerGroupId,omitempty"`
   Translations map[string]string `json:"translations,omitempty"`
 }
+
+// SetMeta has mtgjson meta data
+type SetMeta struct {
+  Date string `json:"date"`
+  PricesDate string `json:"pricesDate"`
+  Version string `json:"version"`
+}

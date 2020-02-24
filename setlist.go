@@ -5,13 +5,6 @@ import (
   "encoding/json"
 )
 
-// SetMeta has mtgjson meta data
-type SetMeta struct {
-  Date string `json:"date"`
-  PricesDate string `json:"pricesDate"`
-  Version string `json:"version"`
-}
-
 const (
   path = "/files/SetList.json"
 )
