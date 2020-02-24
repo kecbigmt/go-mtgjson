@@ -1,5 +1,3 @@
-module mtgjson
-
-require github.com/kecbigmt/go-mtgjson v0.0.0
+module github.com/kecbigmt/go-mtgjson
 
 replace github.com/kecbigmt/go-mtgjson => ./
