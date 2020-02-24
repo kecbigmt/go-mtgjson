@@ -5,19 +5,6 @@ import (
   "encoding/json"
 )
 
-// Set has information about the card set
-type Set struct {
-  Code string `json:"code"`
-  Name string `json:"name"`
-  Type string `json:"type"`
-  ReleaseDate string `json:"releaseDate"`
-  TotalSetSize int `json:"totalSetSize"`
-  BaseSetSize int `json:"baseSetSize"`
-  IsOnlineOnly bool `json:"isOnlineOnly"`
-  IsPaperOnly bool `json:"isPaperOnly"`
-  Meta SetMeta `json:"meta"`
-}
-
 // SetMeta has mtgjson meta data
 type SetMeta struct {
   Date string `json:"date"`
