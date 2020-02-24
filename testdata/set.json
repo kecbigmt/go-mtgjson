@@ -1,0 +1,277 @@
+{
+    "baseSetSize": 269,
+    "boosterV3": [
+        [
+            "rare",
+            "mythic rare"
+        ],
+        "uncommon",
+        "uncommon",
+        "uncommon",
+        "common",
+        "common",
+        "common",
+        "common",
+        "common",
+        "common",
+        "common",
+        "common",
+        "common",
+        "common",
+        "land",
+        "token"
+    ],
+    "cards": [
+        {
+            "artist": "David Gaillet",
+            "borderColor": "black",
+            "colorIdentity": [
+                "W"
+            ],
+            "colors": [
+                "W"
+            ],
+            "convertedManaCost": 3.0,
+            "edhrecRank": 5249,
+            "foreignData": [
+                {
+                    "language": "German",
+                    "multiverseId": 473232,
+                    "name": "Bejubelte Wettstreiterin",
+                    "text": "Wenn die Bejubelte Wettstreiterin ins Spiel kommt und falls du einen anderen Ritter kontrollierst, schaue dir die obersten fünf Karten deiner Bibliothek an. Du kannst davon eine Ritter-, Aura-, Ausrüstungs- oder legendäre Artefaktkarte offen vorzeigen und auf deine Hand nehmen. Lege den Rest in zufälliger Reihenfolge unter deine Bibliothek.",
+                    "type": "Kreatur — Mensch, Ritter"
+                },
+                {
+                    "language": "Spanish",
+                    "multiverseId": 473501,
+                    "name": "Contendiente aclamada",
+                    "text": "Cuando la Contendiente aclamada entre al campo de batalla, si controlas otro Caballero, mira las cinco primeras cartas de tu biblioteca. Puedes mostrar una carta de Caballero, Aura, Equipo o artefacto legendario que se encuentre entre ellas y ponerla en tu mano. Pon el resto en el fondo de tu biblioteca en un orden aleatorio.",
+                    "type": "Criatura — Caballero humano"
+                },
+                {
+                    "language": "French",
+                    "multiverseId": 473770,
+                    "name": "Concurrente acclamée",
+                    "text": "Quand la Concurrente acclamée arrive sur le champ de bataille, si vous contrôlez un autre chevalier, regardez les cinq cartes du dessus de votre bibliothèque. Vous pouvez révéler une carte de chevalier, d'aura, d'équipement ou d'artefact légendaire parmi elles et la mettre dans votre main. Mettez le reste au-dessous de votre bibliothèque dans un ordre aléatoire.",
+                    "type": "Créature : humain et chevalier"
+                },
+                {
+                    "language": "Italian",
+                    "multiverseId": 474039,
+                    "name": "Contendente Acclamata",
+                    "text": "Quando la Contendente Acclamata entra nel campo di battaglia, se controlli un altro Cavaliere, guarda le prime cinque carte del tuo grimorio. Puoi rivelare una carta Cavaliere, Aura, Equipaggiamento o artefatto leggendario scelta tra esse e aggiungerla alla tua mano. Metti le altre in fondo al tuo grimorio in ordine casuale.",
+                    "type": "Creatura — Cavaliere Umano"
+                },
+                {
+                    "language": "Japanese",
+                    "multiverseId": 474308,
+                    "name": "評判高い挑戦者",
+                    "text": "評判高い挑戦者が戦場に出たとき、あなたが他の騎士をコントロールしている場合、あなたのライブラリーの一番上からカードを５枚見る。あなたはその中から、騎士かオーラか装備品か伝説のアーティファクトであるカード１枚を公開してあなたの手札に加えてもよい。残りをあなたのライブラリーの一番下に無作為の順番で置く。",
+                    "type": "クリーチャー — 人間・騎士"
+                },
+                {
+                    "language": "Korean",
+                    "multiverseId": 474577,
+                    "name": "칭송받는 경쟁자",
+                    "text": "칭송받는 경쟁자가 전장에 들어올 때, 당신이 다른 기사를 조종한다면, 당신의 서고 맨 위 카드 다섯 장을 본다. 당신은 그중에서 기사, 마법진, 장비 또는 전설적 마법물체 카드 한 장을 공개하고 당신의 손으로 가져갈 수 있다. 나머지 카드들은 무작위 순서로 당신의 서고 맨 밑에 놓는다.",
+                    "type": "생물 — 인간 기사"
+                },
+                {
+                    "language": "Portuguese (Brazil)",
+                    "multiverseId": 474846,
+                    "name": "Competidora Aclamada",
+                    "text": "Quando Competidora Aclamada entrar no campo de batalha, se você controlar outro Cavaleiro, olhe os cinco cards do topo de seu grimório. Você pode revelar um card de Cavaleiro, Aura, Equipamento ou artefato lendário dentre eles e colocá-lo em sua mão. Coloque o restante no fundo de seu grimório em ordem aleatória.",
+                    "type": "Criatura — Humano Cavaleiro"
+                },
+                {
+                    "language": "Russian",
+                    "multiverseId": 475115,
+                    "name": "Превозносимая Претендентка",
+                    "text": "Когда Превозносимая Претендентка выходит на поле битвы, если вы контролируете другого Рыцаря, посмотрите пять верхних карт вашей библиотеки. Вы можете показать находящуюся среди них карту Рыцаря, Ауры, Снаряжения или легендарного артефакта и положить ее в вашу руку. Положите остальные карты в низ вашей библиотеки в случайном порядке.",
+                    "type": "Существо — Человек Рыцарь"
+                },
+                {
+                    "language": "Chinese Simplified",
+                    "multiverseId": 475384,
+                    "name": "受誉竞争者",
+                    "text": "当受誉竞争者进战场时，若你操控另一个骑士，则检视你牌库顶的五张牌。你可以展示其中的一张骑士、灵气、武具或传奇神器牌，并将它置于你手上。将其余的牌以随机顺序置于你的牌库底。",
+                    "type": "生物 ～人类／骑士"
+                },
+                {
+                    "language": "Chinese Traditional",
+                    "multiverseId": 475653,
+                    "name": "受譽競爭者",
+                    "text": "當受譽競爭者進戰場時，若你操控另一個騎士，則檢視你牌庫頂的五張牌。你可以展示其中的一張騎士、靈氣、武具或傳奇神器牌，並將它置於你手上。將其餘的牌以隨機順序置於你的牌庫底。",
+                    "type": "生物 ～人類／騎士"
+                }
+            ],
+            "frameVersion": "2015",
+            "hasFoil": true,
+            "hasNonFoil": true,
+            "isArena": true,
+            "isMtgo": true,
+            "isPaper": true,
+            "layout": "normal",
+            "legalities": {
+                "brawl": "Legal",
+                "commander": "Legal",
+                "duel": "Legal",
+                "future": "Legal",
+                "historic": "Legal",
+                "legacy": "Legal",
+                "modern": "Legal",
+                "penny": "Legal",
+                "pioneer": "Legal",
+                "standard": "Legal",
+                "vintage": "Legal"
+            },
+            "manaCost": "{2}{W}",
+            "mcmId": 401294,
+            "mcmMetaId": 282294,
+            "mtgArenaId": 70148,
+            "mtgoId": 78088,
+            "multiverseId": 472963,
+            "name": "Acclaimed Contender",
+            "number": "1",
+            "originalText": "When Acclaimed Contender enters the battlefield, if you control another Knight, look at the top five cards of your library. You may reveal a Knight, Aura, Equipment, or legendary artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+            "originalType": "Creature — Human Knight",
+            "power": "3",
+            "prices": {
+                "mtgo": {
+                    "2020-02-18": 0.04
+                },
+                "mtgoFoil": {
+                    "2020-02-18": 0.04
+                },
+                "paper": {
+                    "2020-02-18": 0.24
+                },
+                "paperFoil": {
+                    "2020-02-18": 0.53
+                }
+            },
+            "printings": [
+                "ELD",
+                "PELD"
+            ],
+            "purchaseUrls": {
+                "cardmarket": "https://mtgjson.com/links/ec747f4e41a8988e",
+                "tcgplayer": "https://mtgjson.com/links/7ce81db6c66d4cf2"
+            },
+            "rarity": "rare",
+            "rulings": [
+                {
+                    "date": "2019-10-04",
+                    "text": "Acclaimed Contender’s ability won’t trigger if you don’t control another Knight immediately after it enters the battlefield. If you don’t control another Knight as that ability resolves, the ability has no effect. This doesn’t have the be the same Knight at both times, however."
+                },
+                {
+                    "date": "2019-10-04",
+                    "text": "Acclaimed Contender’s ability can get you at most one card from the top five cards, no matter how many other Knights you control."
+                }
+            ],
+            "scryfallId": "fb6b12e7-bb93-4eb6-bad1-b256a6ccff4e",
+            "scryfallIllustrationId": "390caef4-f3d2-4183-bee3-dc95188cea79",
+            "scryfallOracleId": "35df179a-c0e6-4ac1-a861-e6e9b4d1614d",
+            "subtypes": [
+                "Human",
+                "Knight"
+            ],
+            "supertypes": [],
+            "tcgplayerProductId": 199292,
+            "text": "When Acclaimed Contender enters the battlefield, if you control another Knight, look at the top five cards of your library. You may reveal a Knight, Aura, Equipment, or legendary artifact card from among them and put it into your hand. Put the rest on the bottom of your library in a random order.",
+            "toughness": "3",
+            "type": "Creature — Human Knight",
+            "types": [
+                "Creature"
+            ],
+            "uuid": "df37b421-110f-53e9-bf5e-ab24a16126f1",
+            "variations": [
+                "1b3996bf-d07c-5aae-9e97-ebc8d21a8de4"
+            ]
+        }
+    ],
+    "code": "ELD",
+    "isFoilOnly": false,
+    "isOnlineOnly": false,
+    "keyruneCode": "ELD",
+    "mcmId": 2582,
+    "mcmName": "Throne of Eldraine",
+    "meta": {
+        "date": "2020-02-18",
+        "pricesDate": "2020-02-18",
+        "version": "4.6.2+20200218"
+    },
+    "mtgoCode": "ELD",
+    "name": "Throne of Eldraine",
+    "releaseDate": "2019-10-04",
+    "tcgplayerGroupId": 2494,
+    "tokens": [
+        {
+            "artist": "Forrest Imel",
+            "borderColor": "black",
+            "colorIdentity": [
+                "G"
+            ],
+            "colors": [
+                "G"
+            ],
+            "layout": "normal",
+            "name": "Bear",
+            "number": "8",
+            "power": "2",
+            "reverseRelated": [
+                "Flaxen Intruder // Welcome Home"
+            ],
+            "scryfallId": "b0f09f9e-e0f9-4ed8-bfc0-5f1a3046106e",
+            "scryfallIllustrationId": "a2dc158e-bea9-448f-9ee4-c36cf0f19948",
+            "scryfallOracleId": "a62a374d-ccdd-418d-9bcd-5ca8bf9b05e8",
+            "subtypes": [
+                "Bear"
+            ],
+            "supertypes": [],
+            "toughness": "2",
+            "type": "Token Creature — Bear",
+            "types": [
+                "Token",
+                "Creature"
+            ],
+            "uuid": "3294dc7c-5f05-51f9-9430-228b71a203aa"
+        },
+        {
+            "artist": "Stacie Pitt",
+            "borderColor": "black",
+            "colorIdentity": [
+                "G"
+            ],
+            "colors": [
+                "G"
+            ],
+            "layout": "normal",
+            "name": "Boar",
+            "number": "9",
+            "power": "1",
+            "reverseRelated": [
+                "Wolf's Quarry",
+                "Food"
+            ],
+            "scryfallId": "365b2234-c29d-42db-a8e0-80685a4b6434",
+            "scryfallIllustrationId": "7b49850d-a198-4370-8db4-793243991a3b",
+            "scryfallOracleId": "a6f7f5c7-8832-40f8-803e-f181571422f8",
+            "subtypes": [
+                "Boar"
+            ],
+            "supertypes": [],
+            "text": "When this creature dies, create a Food token.",
+            "toughness": "1",
+            "type": "Token Creature — Boar",
+            "types": [
+                "Token",
+                "Creature"
+            ],
+            "uuid": "f3dfb5f0-c68e-5ce1-a3e3-22a7cdfa40bb"
+        }
+    ],
+    "totalSetSize": 397,
+    "translations": {},
+    "type": "expansion"
+}
