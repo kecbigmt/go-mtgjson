@@ -1,17 +1,16 @@
 package mtgjson_test
 
 import (
-  "os"
   "fmt"
 
-  "github.com/kecbimgt/go-mtgjson"
+  "github.com/kecbigmt/go-mtgjson"
 )
 
-func ExampleGetSetList() {
+func ExampleClient_GetSetList() {
   c := mtgjson.New()
   setList, err := c.GetSetList()
   if err != nil {
-    fmt.Println("error: %s", err)
+    fmt.Printf("error: %s", err)
   }
 
   // get GRN from SetList
@@ -21,11 +20,8 @@ func ExampleGetSetList() {
       setGRN = set
     }
   }
-  if set == nil {
-    fmt.Println("GRN not found")
-  }
 
-  os.Stdout.Write(setGRN.Name)
+  fmt.Print(setGRN.Name)
   // Output:
   // Guilds of Ravnica
 }
